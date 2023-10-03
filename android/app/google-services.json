@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "433573659314",
+    "project_id": "authentication-b7df8",
+    "storage_bucket": "authentication-b7df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433573659314:android:257eca97e90eca4c78bfab",
+        "android_client_info": {
+          "package_name": "com.example.google_auth_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXaLME1lpkMJSY9aP5pGxXiE1hVG2pzU8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
